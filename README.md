@@ -15,6 +15,8 @@ The following two screenshots will show you how the README is generated based on
 
 <img src="https://raw.githubusercontent.com/csbryant/ReadMeGenerator/master/Develop/Assets/Images/1.png" />
 
+You can see below where each question shows up on the markdwon file. The table of contents contains links that will link a user to each section. The Questions section will take the email and github name that the user enters into contact links:
+
 <img src="https://raw.githubusercontent.com/csbryant/ReadMeGenerator/master/Develop/Assets/Images/2.png" />
 
 
