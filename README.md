@@ -2,6 +2,7 @@
 
 ReadMe Generator is a Node creation that questions a user on certain criteria and creates a README.md file based on the answers they provide.
 
+[LINK TO VIDEO HERE!](https://youtu.be/KVKtdFAXhE0)
 
 <img src="https://github.com/csbryant/ReadMeGenerator/blob/master/Develop/Assets/Images/Untitled_%20Aug%2031,%202020%201_09%20PM.gif?raw=true" />
 
