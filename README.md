@@ -11,6 +11,13 @@ Using the NPM Inquirer a user can use NODE on the file index.js (in folder devel
 
 There are links to each section in a Table of Contents section as well as options for the top 3 used GitHub Licenses that will generate a license badge for the readme.
 
+The following two screenshots will show you how the README is generated based on the questions given:
+
+<img src="https://raw.githubusercontent.com/csbryant/ReadMeGenerator/master/Develop/Assets/Images/1.png" />
+
+<img src="https://raw.githubusercontent.com/csbryant/ReadMeGenerator/master/Develop/Assets/Images/2.png" />
+
+
 
 # Credits
 
