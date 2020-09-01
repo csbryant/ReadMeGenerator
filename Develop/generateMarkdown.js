@@ -16,8 +16,7 @@ function generateMarkdown(data) {
   - [License](#License)
   - [Contributors](#Contributors)
   - [Test](#Test)
-  - [Repository Link](#Repository)
-  - [GitHub Info](#GitHub) 
+  - [GitHub Info](#Questions) 
 
   ## Installation
 
