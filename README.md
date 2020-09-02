@@ -21,6 +21,9 @@ You can see below where each question shows up on the markdwon file. The table o
 <img src="https://raw.githubusercontent.com/csbryant/ReadMeGenerator/master/Develop/Assets/Images/New2.png" />
 
 
+[Link to a generated sample HERE.](https://github.com/csbryant/ReadMeGenerator/blob/master/Develop/sample.md)
+
+
 
 # Credits
 
